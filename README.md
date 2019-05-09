@@ -1,2 +1,2 @@
 # sample
-Demo repository
+Demo repository, my first experiment with GH
